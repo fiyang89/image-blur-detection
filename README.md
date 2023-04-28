@@ -1,5 +1,10 @@
 # Image Blur Detection
 
+
+![blur-detection](https://user-images.githubusercontent.com/120594187/235265733-6ab5a6db-8f35-44da-acaa-f201e1313922.gif)
+
+
+
 ## Instructions
 - All files: Helpers.py, app.py, and index.html are required to run main.py correctly
 - Run main.py in VS Code
