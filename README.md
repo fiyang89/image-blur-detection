@@ -1,4 +1,6 @@
-# image-blur-detection
+Image Blur Detection
+
+- Run main.py in VS Code
 
 Resource:
 
