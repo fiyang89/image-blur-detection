@@ -10,6 +10,8 @@
 ![Screenshot 2023-04-28 165825](https://user-images.githubusercontent.com/120594187/235264047-38465c97-4170-4aff-a6d0-cf7159e17198.png)
 
 
-Resource:
+Source:
+
+https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
 
 https://github.com/Furkan-Gulsen/Blur-Detection-Web-App
